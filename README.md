@@ -1,5 +1,5 @@
-# PhD-Thesis
-Abstract (partial)
+# PhD-Thesis - Abstract (partial)
+
 The total Internet trafic in 2018 was around 1.2 ZettaBytes with a cost of 0.82
 GWh. In the same year more than 1451 billions of videos on Youtube were viewed
 and more than 16 billions of pictures were uploaded on Instagram, while the total
